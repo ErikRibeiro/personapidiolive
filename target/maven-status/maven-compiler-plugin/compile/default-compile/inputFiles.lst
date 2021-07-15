@@ -1,0 +1,12 @@
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\enums\PhoneType.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\exception\PersonNotFoundException.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\service\PersonService.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\mapper\PersonMapper.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\entity\Person.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\PersonapiApplication.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\dto\request\PhoneDTO.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\controller\PersonController.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\repository\PersonRepository.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\dto\response\MessageResponseDTO.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\dto\request\PersonDTO.java
+C:\Users\erikr\Desktop\personapi_dio_live\src\main\java\one\digitalinnovation\personapi\entity\Phone.java
